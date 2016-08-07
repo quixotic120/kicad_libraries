@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMC2130
+D TMC2130 Stepper Driver
+K TMC 2130
+F TMC2130
+$ENDCMP
+#
+#End Doc Library
